@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\radiobutton_96\radiobutton_96\bin\Debug\radiobutton_96.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\radiobutton_96\radiobutton_96\bin\Debug\radiobutton_96.exe
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\radiobutton_96\radiobutton_96\bin\Debug\radiobutton_96.pdb
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\radiobutton_96\radiobutton_96\obj\Debug\radiobutton_96.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\radiobutton_96\radiobutton_96\obj\Debug\radiobutton_96.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\radiobutton_96\radiobutton_96\obj\Debug\radiobutton_96.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\radiobutton_96\radiobutton_96\obj\Debug\radiobutton_96.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\radiobutton_96\radiobutton_96\obj\Debug\radiobutton_96.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\radiobutton_96\radiobutton_96\obj\Debug\radiobutton_96.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\radiobutton_96\radiobutton_96\obj\Debug\radiobutton_96.exe
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\radiobutton_96\radiobutton_96\obj\Debug\radiobutton_96.pdb
